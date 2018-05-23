@@ -15,7 +15,7 @@
       <a href="#services" onclick = $("#menu-close").click(); >Servicios</a>
     </li>
     <li>
-      <a href="#portfolio" onclick = $("#menu-close").click(); >Instalaciones</a>
+      <a href="#portfolio" onclick = $("#menu-close").click(); >Portafolio</a>
     </li>
     <li>
       <a href="#contact" onclick = $("#menu-close").click(); >Contacto</a>
