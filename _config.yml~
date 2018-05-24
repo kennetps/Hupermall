@@ -22,7 +22,7 @@ telephone: "4548737"
 copyright: "Hupermall Cochabamba"
 
 # API settings
-google_api_key: AIzaSyATQX0Xepm-e6wiFfBiyYEVEiaDLmL3U0w
+google_api_key: "AIzaSyATQX0Xepm-e6wiFfBiyYEVEiaDLmL3U0w"
 
 # Build settings
 markdown: kramdown
